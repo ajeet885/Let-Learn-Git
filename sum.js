@@ -1,3 +1,6 @@
 const sum=()=>{
-    return 28+12;
+    var a=55;
+    var b=45;
+    return a+b;
+    
 }
